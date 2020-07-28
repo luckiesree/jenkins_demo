@@ -1,5 +1,5 @@
 str = "hello world !!"
 print(str)
-print("im done !!")
-print("welcome to jenkins")
+print("welcome to git !!")
+print("im done")
 
